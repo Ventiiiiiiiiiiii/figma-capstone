@@ -1,2 +1,2 @@
-# figma-capstone
-figma
+# Capstone Project
+Capstone Files
